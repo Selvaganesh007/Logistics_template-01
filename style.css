@@ -97,6 +97,9 @@ a {
     top     : 87vh;
     left    : 10px;
 }
+.lsb--content img{
+    padding: 20px 0;
+}
 
 .lsb--contact h3 {
     font-size: 15px;
